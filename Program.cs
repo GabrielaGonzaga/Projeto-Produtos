@@ -7,7 +7,9 @@ namespace Projeto_de_Produtos
     {
         static void Main(string[] args)
         {
-            
+            Usuario user = new Usuario();
+
+
         }
     }
 }
