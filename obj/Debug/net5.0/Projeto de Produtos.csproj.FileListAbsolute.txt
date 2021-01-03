@@ -1,0 +1,16 @@
+C:\Users\Gabi\Desktop\SENAI\Atrasadas\Projeto de Produtos\obj\Debug\net5.0\Projeto de Produtos.csprojAssemblyReference.cache
+C:\Users\Gabi\Desktop\SENAI\Atrasadas\Projeto de Produtos\obj\Debug\net5.0\Projeto de Produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabi\Desktop\SENAI\Atrasadas\Projeto de Produtos\obj\Debug\net5.0\Projeto de Produtos.AssemblyInfoInputs.cache
+C:\Users\Gabi\Desktop\SENAI\Atrasadas\Projeto de Produtos\obj\Debug\net5.0\Projeto de Produtos.AssemblyInfo.cs
+C:\Users\Gabi\Desktop\SENAI\Atrasadas\Projeto de Produtos\obj\Debug\net5.0\Projeto de Produtos.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Desktop\SENAI\Atrasadas\Projeto de Produtos\bin\Debug\net5.0\Projeto de Produtos.exe
+C:\Users\Gabi\Desktop\SENAI\Atrasadas\Projeto de Produtos\bin\Debug\net5.0\Projeto de Produtos.deps.json
+C:\Users\Gabi\Desktop\SENAI\Atrasadas\Projeto de Produtos\bin\Debug\net5.0\Projeto de Produtos.runtimeconfig.json
+C:\Users\Gabi\Desktop\SENAI\Atrasadas\Projeto de Produtos\bin\Debug\net5.0\Projeto de Produtos.runtimeconfig.dev.json
+C:\Users\Gabi\Desktop\SENAI\Atrasadas\Projeto de Produtos\bin\Debug\net5.0\Projeto de Produtos.dll
+C:\Users\Gabi\Desktop\SENAI\Atrasadas\Projeto de Produtos\bin\Debug\net5.0\ref\Projeto de Produtos.dll
+C:\Users\Gabi\Desktop\SENAI\Atrasadas\Projeto de Produtos\bin\Debug\net5.0\Projeto de Produtos.pdb
+C:\Users\Gabi\Desktop\SENAI\Atrasadas\Projeto de Produtos\obj\Debug\net5.0\Projeto de Produtos.dll
+C:\Users\Gabi\Desktop\SENAI\Atrasadas\Projeto de Produtos\obj\Debug\net5.0\ref\Projeto de Produtos.dll
+C:\Users\Gabi\Desktop\SENAI\Atrasadas\Projeto de Produtos\obj\Debug\net5.0\Projeto de Produtos.pdb
+C:\Users\Gabi\Desktop\SENAI\Atrasadas\Projeto de Produtos\obj\Debug\net5.0\Projeto de Produtos.genruntimeconfig.cache
