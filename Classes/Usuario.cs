@@ -18,11 +18,11 @@ namespace Projeto_de_Produtos.Classes
 
         }
 
-        public int Codigo { get; set; }
+        int Codigo { get; set; }
         public string Nome { get; set; }
-        public string Email { get; set; }
-        public string Senha { get; set; }
-        public DateTime DataCadastro { get; set; }
+        string Email { get; set; }
+        string Senha { get; set; }
+        DateTime DataCadastro { get; set; }
         
         
         public void Cadastrar(){
