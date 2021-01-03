@@ -9,7 +9,6 @@ namespace Projeto_de_Produtos
         public int Codigo { get; set; }
         public string NomeProduto { get; set; }
         public float Preco { get; set; }
-        public string Name { get; set; }
         public DateTime DataCadastro { get; set; }
         public Marca Marca {get; set;}
         public Usuario CadastradoPor { get; set; }
